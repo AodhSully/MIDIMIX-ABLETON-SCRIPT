@@ -9,7 +9,7 @@ Based on Star Child's tutorial: https://www.youtube.com/watch?v=IgKwcCJsoz4
 
 To install on Windows:
 
-  1. Place 'MIDI_MIX' folder in "//../ProgramData/Ableton/Live (Version No.) Suite/     Resources/MIDI Remote Scripts"
+  1. Place 'MIDI_MIX' folder in "//../ProgramData/Ableton/Live X.X.X Suite/     Resources/MIDI Remote Scripts"
 
   2. Connect your MIDI MIX controller
 
